@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "django_compref_keycloak",
     "django_bootstrap5",
+    "bootstrap_datepicker_plus",
     "active_link",
     "email_obfuscator",
     "ckeditor",
